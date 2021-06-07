@@ -25,7 +25,7 @@ function App(){
              <p>{contador}</p> cliques!
             <h1>Contruindo códigos com React</h1>
             <ul>
-          <p>Criar aplicações utilizando o React.js de forma correta</p>
+          <p>Criar aplicações utilizando o React.js de forma correta.</p>
           <p>Usar conceitos de programação funcional em suas aplicações</p>
           <p>Criar aplicações com rotas, estados isolado e pré-renderização no lado do servidor</p>
           <p>Aplicar testes de vários tipos em suas aplicações</p>
